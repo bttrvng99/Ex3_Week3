@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex3_Week3</string>
+    <string-array name="technology">
+        <item>Android</item>
+        <item>Java</item>
+        <item>C/C++</item>
+        <item>PHP</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Python</item>
+    </string-array>
+</resources>
